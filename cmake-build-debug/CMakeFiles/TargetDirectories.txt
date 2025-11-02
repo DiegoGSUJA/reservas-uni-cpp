@@ -1,0 +1,3 @@
+C:/Users/diego/CLionProjects/reservas-uni.cpp/cmake-build-debug/CMakeFiles/reservas_uni_cpp.dir
+C:/Users/diego/CLionProjects/reservas-uni.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/CLionProjects/reservas-uni.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
