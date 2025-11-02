@@ -1,0 +1,7 @@
+add_test( [==[Reserva valida]==] C:/Users/diego/CLionProjects/reservas-uni.cpp/cmake-build-debug/tests.exe [==[Reserva valida]==]  )
+set_tests_properties( [==[Reserva valida]==] PROPERTIES WORKING_DIRECTORY C:/Users/diego/CLionProjects/reservas-uni.cpp/cmake-build-debug)
+add_test( [==[Reserva fin<=inicio lanza]==] C:/Users/diego/CLionProjects/reservas-uni.cpp/cmake-build-debug/tests.exe [==[Reserva fin<=inicio lanza]==]  )
+set_tests_properties( [==[Reserva fin<=inicio lanza]==] PROPERTIES WORKING_DIRECTORY C:/Users/diego/CLionProjects/reservas-uni.cpp/cmake-build-debug)
+add_test( [==[Calendario evita solapes]==] C:/Users/diego/CLionProjects/reservas-uni.cpp/cmake-build-debug/tests.exe [==[Calendario evita solapes]==]  )
+set_tests_properties( [==[Calendario evita solapes]==] PROPERTIES WORKING_DIRECTORY C:/Users/diego/CLionProjects/reservas-uni.cpp/cmake-build-debug)
+set( tests_TESTS [==[Reserva valida]==] [==[Reserva fin<=inicio lanza]==] [==[Calendario evita solapes]==])
